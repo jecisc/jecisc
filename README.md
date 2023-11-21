@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 </a>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jecisc&count_private=true&hide=stars&show_icons=true&theme=cobalt&include_all_commits=true" alt="jecisc" />  
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jecisc&theme=buddhism" alt="jecisc" /></p>
+  <img src="https://github-readme-stats.vercel.app/api?username=jecisc&count_private=true&hide=stars&show_icons=true&theme=gruvbox-duo&include_all_commits=true" alt="jecisc" />  
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jecisc&theme=gruvbox-duo" alt="jecisc" /></p>
 </p>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jecisc&theme=buddhism" alt="Cyril Ferlicot-Delbecque" /></a> </p>
